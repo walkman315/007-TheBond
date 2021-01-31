@@ -1,7 +1,7 @@
 Light Weight OSNIT Script for All platfrom
 
 Disclaimer : - DeadShot0x7 will not responsible if you misuse the script .
-
+# Download
 You can download the script on various platform 
 
  Linux  :
@@ -39,8 +39,8 @@ this script is tested  on these operating system
 
 Leave a like to the Repository 🙂
 
-#DiscordServer 
+# DiscordServer 
 want to join the server ? 
 use this link to join to server( https://discord.gg/zK8JZkYPQf)
-#Disscussion 
+# Disscussion 
 You can join the disscusiion I f you want to
