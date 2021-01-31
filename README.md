@@ -1,6 +1,8 @@
-Light Weight OSNIT Script for All platfrom
+# INofrmation about the Script 
 
-Disclaimer : - DeadShot0x7 will not responsible if you misuse the script .
+Light Weight OSNIT Script for All platfrom
+#Discalimer
+Disclaimer : - DeadShot0x7 will not responsible if you misuse the script , by using  the script you're that you will be responsible for the loss you have made 
 # Download
 You can download the script on various platform 
 
