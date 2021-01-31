@@ -46,4 +46,4 @@ Leave a like to the Repository 🙂
 want to join the server ? 
 use this link to join to server( https://discord.gg/zK8JZkYPQf)
 # Disscussion 
-You can join the disscusiion I f you want to
+if you have any idea or Sugesstion for the tool do let's us know in the Disscussion and you your view will be Appriciated 🙌
