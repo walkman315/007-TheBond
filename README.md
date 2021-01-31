@@ -1,4 +1,4 @@
-# INofrmation about the Script 
+# Inofrmation about the Script 
 
 Light Weight OSNIT Script for All platfrom
 
@@ -32,14 +32,14 @@ You can download the script on various platform
  4. pip install -r Requirments.txt
  5. python3 007-TheBond 
 
-Testing :
+# Testing 
 this script is tested  on these operating system 
 
 1. Kali Linux
 2. Parrot Linux
 3. Termux ( find Instagram user is not working currently)
 4. Garuda Linux 
-
+# Like
 Leave a like to the Repository 🙂
 
 # DiscordServer 
