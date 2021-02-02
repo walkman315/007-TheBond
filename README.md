@@ -42,6 +42,8 @@ this script is tested  on these operating system
 # Like and  Frok
 Leave a like to the Repository 🙂 and feel free to fork the project 
 
+# ScrenShot
+![Alt text](relative/path/to/ScrnShot.JPG?raw=true "007-TheBond"
 # DiscordServer 
 Join the The Discord Server  to know the Updation and Accounment of the tools 
 (https://discord.gg/FWWUgbXfgh)
