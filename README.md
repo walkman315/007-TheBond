@@ -39,11 +39,19 @@ this script is tested  on these operating system
 2. Parrot Linux
 3. Termux ( find Instagram user is not working currently)
 4. Garuda Linux 
-# Like
-Leave a like to the Repository 🙂
+# Like and  Frok
+Leave a like to the Repository 🙂 and feel free to fork the project 
 
 # DiscordServer 
-want to join the server ? 
-use this link to join to server( https://discord.gg/zK8JZkYPQf)
-# Disscussion 
-if you have any idea or Sugesstion for the tool do let's us know in the Disscussion and you your view will be Appriciated 🙌
+Join the The Discord Server  to know the Updation and Accounment of the tools 
+( https://discord.gg/zK8JZkYPQf)
+# Disscussion and Sponsor
+if you have any idea or Sugesstion for the tool do let's us know in the Disscussion and you your view will be Appriciated 🙌 , If you want to Donate money contanct me on 
+# Are you looking for contribution 
+ Yes, You can contribute to this contact me for contribution .
+ 
+ 
+ 
+ 
+
+
