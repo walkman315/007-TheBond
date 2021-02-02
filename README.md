@@ -43,7 +43,7 @@ this script is tested  on these operating system
 Leave a like to the Repository 🙂 and feel free to fork the project 
 
 # ScrenShot
-![Screenshot](screenshot.jpg)
+![Screenshot](ScrnShot.JPG)
 # DiscordServer 
 Join the The Discord Server  to know the Updation and Accounment of the tools 
 (https://discord.gg/FWWUgbXfgh)
