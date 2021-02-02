@@ -1,8 +1,11 @@
-# ScrenShot
-![Screenshot](ScrnShot.JPG)
 # Inofrmation about the Script 
 
-Light Weight OSNIT Script for All platfrom
+OSNIT Script , which let help you to find the information of your Friend , Family , the crush that dosen't talk to you and you enemies 
+
+# ScrenShot of the Script
+![Screenshot](ScrnShot.JPG)
+
+
 
 # Discalimer
 Disclaimer : - DeadShot0x7 will not responsible if you misuse the script , by using  the script you're that you will be responsible for the loss you have made 
