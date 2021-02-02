@@ -1,3 +1,5 @@
+# ScrenShot
+![Screenshot](ScrnShot.JPG)
 # Inofrmation about the Script 
 
 Light Weight OSNIT Script for All platfrom
@@ -42,8 +44,6 @@ this script is tested  on these operating system
 # Like and  Frok
 Leave a like to the Repository 🙂 and feel free to fork the project 
 
-# ScrenShot
-![Screenshot](ScrnShot.JPG)
 # DiscordServer 
 Join the The Discord Server  to know the Updation and Accounment of the tools 
 (https://discord.gg/FWWUgbXfgh)
