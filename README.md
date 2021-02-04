@@ -49,7 +49,7 @@ Leave a like to the Repository 🙂 and feel free to fork the project
 
 # DiscordServer 
 Join the The Discord Server  to know the Updation and Accounment of the tools 
-(https://discord.gg/FWWUgbXfgh)
+(https://discord.gg/WAhQ8EcV4C)
 # Disscussion and Sponsor
 if you have any idea or Sugesstion for the tool do let's us know in the Disscussion and you your view will be Appriciated 🙌 , If you want to Donate money contanct me on instagram
 # Are you looking for contribution 
