@@ -17,7 +17,7 @@ You can download the script on various platform
  1. Clone the Repository  by using git clone command 
  2. git clone 007-TheBond
  3. cd 007-TheBond
- 4. pip install -r Requirments.txt
+ 4. pip install -r Requirments.txt or run  setup.sh
  5. python3 007-TheBond 
  
  
@@ -26,7 +26,7 @@ You can download the script on various platform
   1. Clone the Repository  by using git clone command 
  2. git clone 007-TheBond
  3. cd 007-TheBond
- 4. pip install -r Requirments.txt
+ 4. pip install -r Requirments.txt or run  setup.sh
  5. python3 007-TheBond 
  
  
@@ -34,7 +34,7 @@ You can download the script on various platform
   1. Clone the Repository  by using git clone command 
  2. git clone 007-TheBond
  3. cd 007-TheBond
- 4. pip install -r Requirments.txt
+ 4. pip install -r Requirments.txt or run  setup.sh
  5. python3 007-TheBond 
 
 # Testing 
