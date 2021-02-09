@@ -1,6 +1,6 @@
 # Inofrmation about the Script 
 
-OSNIT Script , which let help you to find the information of your Friend , Family , the crush that dosen't talk to you and you enemies 
+OSNIT Script , which let help you to find the information of your Friend , Family , the crush that dosen't talk to you and you enemies 😎
 
 # ScrenShot of the Script
 ![Screenshot](ScrnShot.JPG)
