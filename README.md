@@ -6,11 +6,11 @@ OSNIT Script , which let help you to find the information of your Friend , Famil
 ![Screenshot](ScrnShot.JPG)
 
 # Features 
-. Instagram osnit 
-. Phonenumber Osnit
-. Search Username Across the Social Media 
-. Serach the web 
-. IplookUp
+1 Instagram osnit 
+2 Phonenumber Osnit
+3 Search Username Across the Social Media 
+4 Serach the web 
+5. IplookUp
 
 
 # Disclaimer
@@ -53,6 +53,8 @@ this script is tested  on these operating system
 # Like and  Frok
 Leave a like to the Repository  and feel free to fork the project  🙂
 
+# Pull Request 
+Added your Ideas to the project feel free to pull request the project 
 # DiscordServer 
 Join the The Discord Server  to know the Updation and Accounment of the tools 
 (https://discord.gg/WAhQ8EcV4C)
