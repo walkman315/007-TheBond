@@ -6,10 +6,10 @@ OSNIT Script , which let help you to find the information of your Friend , Famil
 ![Screenshot](ScrnShot.JPG)
 
 # Features 
-1 Instagram osnit 
-2 Phonenumber Osnit
-3 Search Username Across the Social Media 
-4 Serach the web 
+1. Instagram osnit 
+2. Phonenumber Osnit
+3. Search Username Across the Social Media 
+4. Serach the web 
 5. IplookUp
 
 
