@@ -9,5 +9,5 @@ echo Google Installed
  pip install requests
  echo Httspps request download scuessfull
  echo  Dwonlaoding a module 
-  pip installl six 
+  pip install six 
 echo Important libaries downloaded Sucessfuly 
