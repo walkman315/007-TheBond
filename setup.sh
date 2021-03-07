@@ -1,6 +1,6 @@
 echo Connecting to the python index manager
 echo pip Installed 
- pip insatll phonenumbers
+ pip install phonenumbers
 echo PhoneNumberInofrmation Database Downloaded 
  pip install google
 echo Google Installed
