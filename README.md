@@ -30,6 +30,7 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+OR
 ```
 ./setup.sh
 ```
