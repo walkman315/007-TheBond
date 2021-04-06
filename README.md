@@ -15,6 +15,8 @@ OSNIT Script , which let help you to find the information of your Friend , Famil
 
 # Disclaimer
 Disclaimer : - DeadShot0x7 will not responsible if you misuse the script , by using  the script you're that you will be responsible for the loss you have made 
+# Version 
+ Version of 007-TheBond is 2.0 , this is official Release of the Project 
 
 # Usage
 
