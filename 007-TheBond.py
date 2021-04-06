@@ -12,6 +12,7 @@ from urllib.request import urlopen
 import requests
 import sys
 import urllib
+import logging
 from username import *
 
      
@@ -101,9 +102,24 @@ if  __name__=="__main__":
     banner=pyfiglet.figlet_format("007-The Bond", font="slant")
     print(banner)
     
-    print(" \t Script by DeadShot0x7  V 1.0")
+    
+    print(" \t Script by DeadShot0x7  V 2.0")
     print("\n \n")
+    print("DeadShot0x7 will not be responsible for the  Loss you have made ,Enter y or n")
+    ans=str(input(">>>>>>>>>"))
+    if ans == 'y' or ans =="yes" or ans=="Y":
+        logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
+        logging.info("Yes I'm Responsbile for the loss I have done ")
+        
+        
     while(1):
+        os.system("cls") 
+        banner=pyfiglet.figlet_format("007-The Bond", font="slant")
+        print(banner)
+    
+    
+        print(" \t Script by DeadShot0x7  V 2.0")
+        print("\n \n")
         print("1.Instagram \t 2.Search")
         print("3.Phoneloopkup \t 4.Iplookup")
         print("5.Update \t 6.Search username Across the Social Media")
@@ -116,7 +132,7 @@ if  __name__=="__main__":
             query = str ( input ("Search :")  )
             web_search(query)
         if a == 3:
-            no = str (input("Enter number : \t"))
+            no = str (input("Enter number with country code : \t"))
             number(no)
         if a == 4:
             ip=str(input ("Enter Ip address "))
@@ -127,9 +143,12 @@ if  __name__=="__main__":
             except Exception as e:
                 print("Check your Internet Connection or No repository found")
         if a == 6:
-            print("\n")
-            print(" this features is coming soon")
-            print("\n")
+            name=str(input ("Enter Username"))
+            instagram(name)
+            facebook(name)
+            pinrest(name)
+            
+            
             
         if a == 7:
             print("Closing the application in 10 second")
