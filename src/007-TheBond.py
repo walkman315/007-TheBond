@@ -113,7 +113,7 @@ if  __name__=="__main__":
         
         
     while(1):
-        os.system("cls") 
+        os.system("clear") 
         banner=pyfiglet.figlet_format("007-The Bond", font="slant")
         print(banner)
     
