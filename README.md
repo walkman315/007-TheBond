@@ -66,5 +66,5 @@ if you have any idea or Sugesstion for the tool do let's us know in the Discussi
 
 # Sponor 
 this Tool is made and Mainted by the One Developer , Kindly show your support by Sponoring the poject  . Sponoring the Project will help the Developer to Bring Amazing Features
-
+link to sponsor : https://www.buymeacoffee.com/Deadshot0x7
 
