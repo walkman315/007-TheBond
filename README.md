@@ -64,9 +64,6 @@ Join the The Discord Community  to know the Updation and Accounment of the tools
 # Disscussion a
 if you have any idea or Sugesstion for the tool do let's us know in the Discussion and your view will be Appreciated 🙌 ,  Want to discuss,  message me in the  Dicussion section 🧐
 
-# follow or watch  🚶‍♂️
-follow me for more script like this or watch the repository  for the development 
-
 # Sponor 
 this Tool is made and Mainted by the One Developer , Kindly show your support by Sponoring the poject  . Sponring the Project will help the Developer to Bring Amazing Features
 
