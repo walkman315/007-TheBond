@@ -61,10 +61,11 @@ Add your Ideas to the project, feel free to pull request the project
 Join the The Discord Community  to know the Updation and Accounment of the tools 😊
 (https://discord.gg/WAhQ8EcV4C) 
 
-# Disscussion a
+# Disscussion 
 if you have any idea or Sugesstion for the tool do let's us know in the Discussion and your view will be Appreciated 🙌 ,  Want to discuss,  message me in the  Dicussion section 🧐
 
 # Sponor  And Donation's
 this Tool is made and Mainted by the One Developer , Kindly show your support by Sponoring the poject  . Sponoring the Project will help the Developer to Bring Amazing Features
 link to sponsor : https://www.buymeacoffee.com/Deadshot0x7
-
+# Website 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e6bac2cc-8b3e-46c6-9c48-4c256548889e/deploy-status)](https://app.netlify.com/sites/007-thebond/deploys)
