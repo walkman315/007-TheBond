@@ -66,6 +66,8 @@ if you have any idea or Sugesstion for the tool do let's us know in the Discussi
 
 # Sponor  And Donation's
 this Tool is made and Mainted by the One Developer , Kindly show your support by Sponoring the poject  . Sponoring the Project will help the Developer to Bring Amazing Features
-link to sponsor : https://www.buymeacoffee.com/Deadshot0x7
+link to sponsor : 
+https://www.buymeacoffee.com/Deadshot0x7
+ko-fi.com/deadshot0x7
 # Website 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e6bac2cc-8b3e-46c6-9c48-4c256548889e/deploy-status)](https://app.netlify.com/sites/007-thebond/deploys)
