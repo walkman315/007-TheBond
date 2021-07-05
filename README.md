@@ -69,6 +69,7 @@ this Tool is made and Mainted by the One Developer , Kindly show your support by
 link to sponsor : 
 https://www.buymeacoffee.com/Deadshot0x7
 http://www.ko-fi.com/deadshot0x7
+https://paypal.me/Deadshot0x7?locale.x=en_GB
 
 google Upi : -  
 
